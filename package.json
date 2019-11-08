@@ -1,5 +1,5 @@
 {
-  "name": "heroku-test",
+  "name": "heroku",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
